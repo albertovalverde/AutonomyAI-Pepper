@@ -42,4 +42,4 @@ This project is licensed under [License Name].
 
 ---
 
-This README.md provides an overview of the "Pepper - Autonomous Decision-Making System" project under the name "AutonomyAI-Pepper". Customize and expand it as needed for the project. Good luck with your endeavors!
+This README.md provides an overview of the "Pepper - Autonomous Decision-Making System" project under the name "AutonomyAI-Pepper". 
